@@ -1,0 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=Actor);
+* {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+  font-family: 'Actor', sans-serif;
+}
+body {
+	background-color: #000;
+	font-size: 16px;
+}
+footer a {
+	color: rgb(255,255,255);
+	text-decoration: none;
+}
+footer {
+	background-color: rgb(0,0,0);
+	height: auto;
+	width: 100%;
+}
+footer h6 {
+	font-size: .8em;
+	font-weight: 100;
+	text-align: center;
+	padding: 1.7em 0 1em 0;
+}
+header {
+	background-color: #000;
+	height: auto;
+	width: 100%;
+}
+header h1 {
+	color: rgb(255,255,255);
+	font-size: 1em;
+	font-weight: 100;
+	padding: 1.3em 0 1.3em 0;
+	text-align: center;
+}
+#contenedor {
+	height: auto;
+	margin: -21px 0 0 0;
+	width: 100%;
+}
+#contenido {
+	background: url(../img/bg-principal.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height: 660px;
+  	margin-top: -1.3em;
+  	width: 100%;
+}
+#contenidoPlacares {
+	background: url(../img/bg-placares.jpg) no-repeat center center fixed;
+	background-color: #000;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	height: 610px;
+  	margin-top: -1.3em;
+    padding-top: 3em;
+  	width: 100%;
+}
+#menu {
+  background-color: rgba(0,0,0,0.70);
+  float: right;
+  height: 450px;
+  margin-top: 80px;
+  width: 30%;
+}
+#menu ul li {
+  font-size: 2.0em;
+  font-weight: 100;
+  list-style: none;
+  padding: 1em 1em .5em 1em;
+}
+#menu ul li a {
+  color: rgb(255,255,255);
+  text-decoration: none;
+}
+.contenedorPrincipal {
+  height: 400px;
+  overflow: auto;
+  margin: 0 auto;
+  width: 90%;
+}
+.contenedorPrincipal img {
+  height: auto;
+  padding: 1em 1em 1em 2em;
+  width: 27%;
+}
+
+
+
+
+
+
+
+
+
+
